@@ -1,0 +1,29 @@
+/* MyFooter.css */
+.footer {
+  background-color: #009966;
+}
+
+.footer_foot {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+}
+
+.footer_father {
+  display: flex;
+  justify-content: center;
+}
+
+.footer_left {
+  margin-left: 50%;
+}
+
+.footer_three {
+  padding-top: 0;
+  text-align: center;
+}
+
+.footer_four {
+  text-align: center;
+  padding-bottom: 20px;
+}

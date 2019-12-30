@@ -1,0 +1,35 @@
+/* MySwiper.css */
+.carousel {
+  width: 300px;
+  height: 100%;
+  background-color: #FFF;
+}
+
+.show_box {
+  /* height: 13264.6px; */
+  height: 12900px;
+  /* height: 1200px; */
+  width: 320px;
+  /* 相对定位 */
+  position: relative;
+  /* 溢出隐藏 */
+  overflow: hidden;
+  background-color: #e8e8e8;
+}
+
+.show_box ul {
+  /* 展示图片绝对定位 */
+  height: 200px;
+  width: 320px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.show_box ul li {
+  list-style: none;
+}
+.show_box ul li img {
+  width: 300px;
+  height: 200px;
+}

@@ -1,0 +1,72 @@
+/* Reform.css */
+.Reform {
+  width: 900px;
+  height: 12900px;
+  margin: -12900px 0 0 350px;
+}
+
+.MyContent {
+  background: rgb(106, 194, 238);
+}
+
+#MyTitle {
+  margin: 0 auto;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 黑体;
+  line-height: 30px;
+}
+
+#MySubTitle {
+  font-family: 宋体;
+  margin: 15px 0 0 0;
+}
+
+#MyPart h6 {
+  text-align: center;
+  font-family: 宋体;
+  font-size: 16px;
+  font-weight: normal;
+}
+#MyPart p {
+  text-align: left;
+}
+
+#part1,
+#part2,
+#part3,
+#part4,
+#part5,
+#part6,
+#part7,
+#part8,
+#part9,
+#part10 {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 宋体;
+  line-height: 30px;
+  padding-left: 10px;
+  text-align: left;
+}
+
+p {
+  margin: 5px 15px 0px 1px;
+  font-family: 宋体;
+  font-size: 16px;
+  line-height: 30px;
+  text-indent: 30px;
+}
+
+#photoText img {
+  float: right;
+  vertical-align: text-top;
+  width: 50%;
+  height: 50%;
+  clear: both;
+}
+
+#RightUp {
+  float: right;
+  color: #FF9;
+}
